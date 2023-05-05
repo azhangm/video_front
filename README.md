@@ -1,4 +1,4 @@
-# video_admin
+# admin
 
 ## Project setup
 ```
